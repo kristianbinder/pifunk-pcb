@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name pcm2902c)(type Legacy)(uri ${KIPRJMOD}/lib/symbol/pcm2902c.lib)(options "")(descr ""))
+  (lib (name we-cnsw)(type Legacy)(uri ${KIPRJMOD}/lib/symbol/we-cnsw.lib)(options "")(descr ""))
+)

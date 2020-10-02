@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCM2902C
+D Stereo Audio Codec with USB Interface, Single-Ended Analog and S/PDIF In/Out
+F https://www.ti.com/lit/gpn/pcm2902c
+$ENDCMP
+#
+#End Doc Library
